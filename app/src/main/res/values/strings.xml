@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UI silsoup</string>
+    <string name="button1_msg">button1 clicked</string>
+    <string name="button2_msg">button2 clicked</string>
+    <string name="button3_msg">button3 clicked</string>
+    <string name="button5_msg">button4 clicked</string>
+    <string name="button6_msg">button5 clicked</string>
+
+</resources>
